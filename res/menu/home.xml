@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.skk.mathcard.HomeActivity" >
+
+   <item
+        android:id="@+id/homeHistory"
+        android:orderInCategory="100"
+        android:title="Score Board"
+        android:showAsAction="never"
+        />
+   <item
+        android:id="@+id/homeLevel"
+        android:orderInCategory="100"
+        android:title="Level"
+        android:showAsAction="always"/>
+ <item
+        android:id="@+id/homeSettings"
+        android:orderInCategory="100"
+        android:title="Settings"
+        android:showAsAction="never"/>
+</menu>

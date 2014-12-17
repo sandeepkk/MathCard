@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.skk.mathcard.MainActivity" >
+
+  
+   <item
+        android:id="@+id/history"
+        android:orderInCategory="100"
+        android:title="Score Board"
+        android:showAsAction="never"
+        />
+   
+
+</menu>
